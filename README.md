@@ -1,4 +1,4 @@
-### Hi there 👋
+### Selamat Datang di Repositori akbarpn136 🙏🏻
 
 <!--
 **akbarpn136/akbarpn136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Repositori ini dibuat untuk saling bekerja sama dan berbagi dalam membangun _Open Project_ ataupun materi untuk belajar bersama. Untuk informasi lebih lanjut dapat mampir ke halaman video [channel akbarpn136 🎥](https://youtube.com/user/akbarpn136).
+
+Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalui tautan [chat akbarpn136 💬](https://discord.gg/7dTG9sg).
