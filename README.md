@@ -18,6 +18,7 @@ Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalu
 [instagram]: https://instagram.com/akbarpn136
 [linkedin]: https://www.linkedin.com/in/arizal-akbar-zikri-63461458/
 
+<br />
 ---
 
 ### 📺 Video Terbaru
