@@ -1,20 +1,27 @@
 ### Selamat Datang di Repositori akbarpn136 🙏🏻
 
-<!--
-**akbarpn136/akbarpn136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repositori ini dibuat untuk saling bekerja sama dan berbagi dalam membangun _Open Project_ ataupun materi untuk belajar 
+bersama. Untuk informasi lebih lanjut dapat mampir ke halaman video 
+[channel akbarpn136 🎥](https://youtube.com/user/akbarpn136).
 
-Here are some ideas to get you started:
+Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalui tautan 
+[chat akbarpn136 💬](https://discord.gg/7dTG9sg).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Mampir disini juga ya
+[<img align="left" alt="akbarpn136 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="akbarpn136 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="akbarpn136 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="akbarpn136 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Repositori ini dibuat untuk saling bekerja sama dan berbagi dalam membangun _Open Project_ ataupun materi untuk belajar bersama. Untuk informasi lebih lanjut dapat mampir ke halaman video [channel akbarpn136 🎥](https://youtube.com/user/akbarpn136).
+[twitter]: https://twitter.com/akbarpn136
+[youtube]: https://www.youtube.com/user/akbarpn136
+[instagram]: https://instagram.com/akbarpn136
+[linkedin]: https://www.linkedin.com/in/arizal-akbar-zikri-63461458/
 
-Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalui tautan [chat akbarpn136 💬](https://discord.gg/7dTG9sg).
+---
+
+### 📺 Video Terbaru
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
