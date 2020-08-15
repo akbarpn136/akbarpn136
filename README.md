@@ -24,11 +24,11 @@ Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalu
 
 ### 📺 Video Terbaru
 <!-- YOUTUBE:START -->
+- [Kabar 1 Menit - Urutan Bahasa Pemrograman di Dunia](https://www.youtube.com/watch?v=ZiYGQOQ31OI)
 - [Jurnal #8 Rust Actix Web Framework | Shareable Data Melalui State](https://www.youtube.com/watch?v=YPfYuxWB3B4)
 - [Jurnal #7 Rust Actix Web Framework | Nested Route Dan Refactoring Module](https://www.youtube.com/watch?v=WitT0qt-Zlc)
 - [Jurnal #6 Rust Actix Web Framework | Migrasi Actix Web V3.0 dan Path Normalization](https://www.youtube.com/watch?v=YLQOKkCZp4E)
 - [Jurnal #5 Rust Actix Web Framework | Menggunakan Extractors URL dan Body](https://www.youtube.com/watch?v=cQxYreONN4w)
-- [Jurnal #4 Rust Actix Web Framework | Penerapan Serializing dan Deserializing Json](https://www.youtube.com/watch?v=zMy4Xlji6F4)
 <!-- YOUTUBE:END -->
 
 ---
