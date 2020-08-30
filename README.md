@@ -24,11 +24,11 @@ Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalu
 
 ### 📺 Video Terbaru
 <!-- YOUTUBE:START -->
+- [Kabar 1 Menit - Intip Hasil Survei Stackoverflow 2020 Bahasa yang Paling Dicintai di Dunia](https://www.youtube.com/watch?v=UDtRsD_8Prw)
 - [Jurnal #9 Rust Actix Web Framework | Koneksi Database SQL](https://www.youtube.com/watch?v=JkQyTloH8ng)
 - [Kabar 1 Menit - Perbandingan Performa Web Framework antara Rust, Go, PHP, Javascript dan Python](https://www.youtube.com/watch?v=n8UhkT4VGMg)
 - [Kabar 1 Menit - Urutan Bahasa Pemrograman di Dunia](https://www.youtube.com/watch?v=ZiYGQOQ31OI)
 - [Jurnal #8 Rust Actix Web Framework | Shareable Data Melalui State](https://www.youtube.com/watch?v=YPfYuxWB3B4)
-- [Jurnal #7 Rust Actix Web Framework | Nested Route Dan Refactoring Module](https://www.youtube.com/watch?v=WitT0qt-Zlc)
 <!-- YOUTUBE:END -->
 
 ---
