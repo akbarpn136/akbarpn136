@@ -24,11 +24,11 @@ Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalu
 
 ### 📺 Video Terbaru
 <!-- YOUTUBE:START -->
+- [Jurnal #11 Rust Actix Web Framework | Berkenalan dengan Diesel CLI untuk Kelola Database SQL ORM](https://www.youtube.com/watch?v=2SdjvhLoYkE)
 - [Jurnal #10 Rust Actix Web Framework | Konfigurasi Database SQL dengan Diesel ORM](https://www.youtube.com/watch?v=zgmR8sKLWdU)
 - [[INFO GIVEAWAY] Edisi Syukuran Sederhana untuk Subscribers](https://www.youtube.com/watch?v=zhGsYDHVI9o)
 - [Kabar 1 Menit - Intip Hasil Survei Stackoverflow 2020 Bahasa yang Paling Dicintai di Dunia](https://www.youtube.com/watch?v=UDtRsD_8Prw)
 - [Jurnal #9 Rust Actix Web Framework | Koneksi Database SQL](https://www.youtube.com/watch?v=JkQyTloH8ng)
-- [Kabar 1 Menit - Perbandingan Performa Web Framework antara Rust, Go, PHP, Javascript dan Python](https://www.youtube.com/watch?v=n8UhkT4VGMg)
 <!-- YOUTUBE:END -->
 
 ---
