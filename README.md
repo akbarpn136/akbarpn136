@@ -1,5 +1,7 @@
 ### Selamat Datang di Repositori akbarpn136 🙏🏻
 
+![akbarpn136](4kb4rpn136.png)
+
 Repositori ini dibuat untuk saling bekerja sama dan berbagi dalam membangun _Open Project_ ataupun materi untuk belajar 
 bersama. Untuk informasi lebih lanjut dapat mampir ke halaman video 
 [channel akbarpn136 🎥](https://youtube.com/user/akbarpn136).
