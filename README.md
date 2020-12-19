@@ -33,4 +33,3 @@ Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalu
 - [Jurnal #15 Rust Actix Web Framework | Ambil Data-Data Users di Database](https://www.youtube.com/watch?v=2Uw6ssEeYkU)
 <!-- YOUTUBE:END -->
 
----
