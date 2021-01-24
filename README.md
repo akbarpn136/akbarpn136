@@ -26,10 +26,10 @@ Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalu
 
 ### 📺 Video Terbaru
 <!-- YOUTUBE:START -->
-- [#2 Functions | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=2Cc3lzm02C0)
-- [#1 Variables | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=wLqpouGJ53o)
+- [#️⃣ 3 If Conditional + Quiz | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=6sj2oRqYqaA)
+- [#️⃣ 2 Functions | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=2Cc3lzm02C0)
+- [#️⃣ 1 Variables | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=wLqpouGJ53o)
 - [Jurnal #20 Rust Actix Web Framework | Main JWT (JSON Web Token) Authentication](https://www.youtube.com/watch?v=qmh3ks-LI88)
 - [Jurnal #19 Rust Actix Web Framework | Main Authentication Pengguna Sederhana](https://www.youtube.com/watch?v=2K8Fg6pss84)
-- [Jurnal #18 Rust Actix Web Framework | Hapus Data User di Database](https://www.youtube.com/watch?v=ByP54dEmcdo)
 <!-- YOUTUBE:END -->
 
