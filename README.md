@@ -26,10 +26,10 @@ Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalu
 
 ### 📺 Video Terbaru
 <!-- YOUTUBE:START -->
+- [#️⃣ 9 Collections | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=J109nisSkgg)
 - [#️⃣ 8 Modules | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=bDCA4mpOMDM)
 - [#️⃣ 7 Enums | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=vazQJ32p8vM)
 - [#️⃣ 6 Structs | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=D5KKzDO-TqI)
 - [#️⃣ 5 Primitive Types | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=uBLJ4ReK0-w)
-- [#️⃣ 4 Borrow & Ownership | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=GmPq4JwjN9Q)
 <!-- YOUTUBE:END -->
 
