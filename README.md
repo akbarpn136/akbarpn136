@@ -26,10 +26,10 @@ Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalu
 
 ### 📺 Video Terbaru
 <!-- YOUTUBE:START -->
+- [Tutorial Install NodeJS + NPM + Yarn di Linux Manjaro](https://www.youtube.com/watch?v=2VO5xGpVkkI)
 - [#️⃣ 14 Traits | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=NGsaUyZxHY0)
 - [#️⃣ 13 Option | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=u_9KhEmb0KM)
 - [#️⃣ 12 Generics | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=ASYLKroUogI)
 - [#️⃣ 11 Error handling | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=4GhwUAI1RYA)
-- [#️⃣ 10 Strings + Quiz | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=L0otLH_qz9M)
 <!-- YOUTUBE:END -->
 
