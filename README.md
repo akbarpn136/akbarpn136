@@ -26,10 +26,10 @@ Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalu
 
 ### 📺 Video Terbaru
 <!-- YOUTUBE:START -->
+- [#️⃣ 17 Threads | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=yKM8oJem63k)
 - [#️⃣ 16 Standard Library Bagian 3 | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=ZqpJGe35X3A)
 - [#️⃣ 16 Standard Library Bagian 2 | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=HInjtXGWX4k)
 - [#️⃣ 16 Standard Library Bagian 1 | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=46tMc3EKmYU)
 - [Resep Rust Atasi Masalah OpenSSL selama Kompilasi](https://www.youtube.com/watch?v=DiHGjuiPiB0)
-- [#️⃣ 15 Tests + Quiz | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=oLq8lrSc9Ec)
 <!-- YOUTUBE:END -->
 
