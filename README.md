@@ -26,10 +26,10 @@ Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalu
 
 ### 📺 Video Terbaru
 <!-- YOUTUBE:START -->
+- [#️⃣ 19 Clippy | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=VxjnaONK77s)
 - [#️⃣ 18 Macros + Quiz 4 | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=3DZa-mOpnew)
 - [#️⃣ 17 Threads | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=yKM8oJem63k)
 - [#️⃣ 16 Standard Library Bagian 3 | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=ZqpJGe35X3A)
 - [#️⃣ 16 Standard Library Bagian 2 | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=HInjtXGWX4k)
-- [#️⃣ 16 Standard Library Bagian 1 | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=46tMc3EKmYU)
 <!-- YOUTUBE:END -->
 
