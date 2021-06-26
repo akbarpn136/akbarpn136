@@ -26,10 +26,10 @@ Apabila teman-teman berminat gabung dengan _Open Project_ atau chat dapat melalu
 
 ### 📺 Video Terbaru
 <!-- YOUTUBE:START -->
+- [Resep Rust Atasi Masalah Instalasi MQTT selama Kompilasi](https://www.youtube.com/watch?v=w8mED3I33lU)
 - [#️⃣ 20 Conversions Bagian 3 | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=T5QoN8wWA3g)
 - [#️⃣ 20 Conversions Bagian 2 | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=vCGGzCLxAPU)
 - [#️⃣ 20 Conversions Bagian 1 | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=ljL8cDwqjfA)
 - [#️⃣ 19 Clippy | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=VxjnaONK77s)
-- [#️⃣ 18 Macros + Quiz 4 | Belajar Rust dari Kesalahan | Rust Lang Indonesia](https://www.youtube.com/watch?v=3DZa-mOpnew)
 <!-- YOUTUBE:END -->
 
